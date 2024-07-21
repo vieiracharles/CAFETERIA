@@ -1,4 +1,5 @@
 Projeto executado com tecnologia HTML e CSS. Estou em transição de carreira da área imobiliária para tecnológica. Exercitando a experiência aquirida na formação DevClub. Continuo na formação, mentor @RodolfoMori. Seguindo a trilha fullstack.
+Obs.:Responsividade ainda não concluída. 
 <p><bold>Clique na imagem e visite o site - Projeto Cafeteria.</bold></p>  
 <br>
 <br>
